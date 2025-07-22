@@ -1,0 +1,7 @@
+
+*.pyc
+*.txt
+*.json
+*.log
+*.json
+config.py
